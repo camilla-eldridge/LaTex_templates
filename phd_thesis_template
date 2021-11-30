@@ -265,3 +265,8 @@ I'm referring to footnote \ref{myfootnote}.
 
 \bibliography{<your-bib-file>}
 \end{document}
+
+
+% Further notes:
+% Latex table generator: to convert tables to latex format....https://www.tablesgenerator.com/ 
+
